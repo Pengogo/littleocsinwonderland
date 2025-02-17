@@ -1,0 +1,26 @@
+{
+  "title": "Little OC's in Wonderland",
+  "description": "It's a funny thing, the cat told Alice. A thousand doors, with a thousand paths, but they all lead to the same place. Every door in the world leads to somewhere.
+But this door, the cat was very quick to point out, led somewhere else",
+  "artist": "The Players",
+  "author": "The Players",
+  "cover": "https://i.imgur.com/Z3PizSE.png",
+  "chapters": {
+    "1": {
+      "title": "Character Submissions",
+      "volume": "1",
+      "groups": {
+        "Various": "/proxy/api/imgur/chapter/yPJKivr/"
+      },
+      "last_updated": "1616368746"
+    }, 
+ "2": {
+      "title": "Round 1",
+      "volume": "2",
+      "groups": {
+        "Various": "/proxy/api/imgur/chapter/foRNuTc/"
+      },
+      "last_updated": "1616368746"
+    }
+}
+}
