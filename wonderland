@@ -28,6 +28,22 @@
         "Various": "/proxy/api/imgur/chapter/81gXnp2/"
       },
       "last_updated": "1616368746"
+    },
+ "4": {
+      "title": "Round 3",
+      "volume": "4",
+      "groups": {
+        "Various": "/proxy/api/imgur/chapter/1B80lhG/"
+      },
+      "last_updated": "1616368746"
+    },
+ "5": {
+      "title": "Exhibitions",
+      "volume": "5",
+      "groups": {
+        "Various": "/proxy/api/imgur/chapter/RDbWTwT/"
+      },
+      "last_updated": "1616368746"
     }
 }
 }
