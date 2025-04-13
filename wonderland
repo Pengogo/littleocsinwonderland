@@ -46,8 +46,16 @@
       "last_updated": "1616368746"
     },
  "6": {
-      "title": "Exhibitions",
+      "title": "Round 5",
       "volume": "6",
+      "groups": {
+        "Various": "/proxy/api/imgur/chapter/jQm0Jxt/"
+      },
+      "last_updated": "1616368746"
+    },
+ "7": {
+      "title": "Exhibitions",
+      "volume": "7",
       "groups": {
         "Various": "/proxy/api/imgur/chapter/RDbWTwT/"
       },
